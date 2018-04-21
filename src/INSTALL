@@ -1,9 +1,0 @@
-Building Beatcoin
-
-See doc/readme-qt.rst for instructions on building Beatcoin-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Beatcoin.
-
-See doc/build-*.txt for instructions on building beatcoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of Beatcoin.
